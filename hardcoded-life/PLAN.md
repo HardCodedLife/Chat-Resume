@@ -17,10 +17,10 @@ This plan outlines the steps to build the "HardCodedLife" AI Resume application,
     - `ProjectCard`: For displaying highlighted projects on the landing page.
 
 ## Phase 3: Landing Page (The "Hook")
-- [ ] **Hero Section:** Implement the "2-minute chat" value proposition.
-- [ ] **Feature Cards:** Display "Prototype Speed", "Automation", and "AI Native" cards.
-- [ ] **Call to Action:** Add a clear "Start Chatting" button that links to `/chat`.
-- [ ] **File:** `src/app/page.tsx`
+- [x] **Hero Section:** Implement the "2-minute chat" value proposition.
+- [x] **Feature Cards:** Display "Prototype Speed", "Automation", and "AI Native" cards.
+- [x] **Call to Action:** Add a clear "Start Chatting" button that links to `/chat`.
+- [x] **File:** `src/app/page.tsx`
 
 ## Phase 4: Chat Interface (The "Vibe Check")
 - [ ] **Chat Page Layout:** Create a clean, chat-focused layout in `src/app/chat/page.tsx`.
