@@ -7,9 +7,9 @@ import { Button } from "@/components/ui/button";
 import { Message } from "@/types/chat";
 
 const SUGGESTED_CHIPS = [
-  "你最拿手的 3 件事？",
-  "關於 n8n，你實作過什麼？",
-  "給我 3 天，你能做出什麼 Demo？",
+  "我最拿手的 3 件事？",
+  "關於 n8n，我實作過什麼？",
+  "給我 3 天，我能做出什麼 Demo？",
 ];
 
 export default function ChatPage() {
@@ -66,7 +66,7 @@ export default function ChatPage() {
   };
 
   const handleCreateDemo = () => {
-    sendMessage("給我 3 天，你能做出什麼 Demo？");
+    sendMessage("給我 3 天，我能做出什麼 Demo？");
   };
 
   return (
